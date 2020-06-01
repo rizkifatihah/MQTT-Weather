@@ -1,5 +1,20 @@
 # MQTT-Weather
 
+//Syarat
+Untuk menjalankan sistem ini, ada beberapa persyaratan yang harus di install :
+
+1.Python3
+2.Modul  Json
+3.Modul yr
+4.Modul paho.mqtt
+5.Modul datetime
+6.Modul dateutil.parser
+7.Modul requests
+8.Modul argparse
+9.Modul Time
+
+//Cara Menjalankan
+
 1.Buka terminal untuk menjalankan program
 
 2.Jalankan publishernya untuk mengirim dengan cara py pubWeather.py -(argumen yang akan di gunakan)
