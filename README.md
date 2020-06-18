@@ -1,6 +1,6 @@
 # MQTT-Weather
 
-//Syarat
+Syarat
 Untuk menjalankan sistem ini, ada beberapa persyaratan yang harus di install :
 
 1.Python3
@@ -13,7 +13,7 @@ Untuk menjalankan sistem ini, ada beberapa persyaratan yang harus di install :
 8.Modul argparse
 9.Modul Time
 
-//Cara Menjalankan
+Cara Menjalankan
 
 1.Buka terminal untuk menjalankan program
 
